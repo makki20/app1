@@ -1,3 +1,4 @@
 # app1
 to be creative 
-whta kind of software did i use?
+
+what kind of software did i use?
